@@ -1,0 +1,23 @@
+a:hover{
+    color:red;
+
+}
+body{
+    background-color:aquamarine;
+
+}
+a{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+a:link, a:visited{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 14px 25px;
+    text-align: center;
+    display:inline-block;
+}
+a:hover, a:active{
+    background-color: red;
+}
